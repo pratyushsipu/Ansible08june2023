@@ -8,6 +8,16 @@
 172.31.40.103
 172.31.34.301
 
+
+[mydbserver]
+172.31.40.3
+172.31.34.9
+
+
+
+
+
+
 [mywebserver.vars]
 myvar= value
 mywebserverforubuntu= apache2

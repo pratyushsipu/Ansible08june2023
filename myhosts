@@ -8,7 +8,7 @@
 172.31.40.103
 172.31.34.301
 
-[mywebservers.vars]
+[mywebserver.vars]
 myvar= value
 mywebserverforubuntu= apache2
 mywebserverforredhat= httpd

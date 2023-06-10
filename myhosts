@@ -15,7 +15,7 @@
 
 
 
-[mywebserver.vars]
+[mywebserver.yml]
 myvar= value
 mywebserverforubuntu= apache2
 mywebserverforredhat= httpd

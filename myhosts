@@ -15,5 +15,5 @@
 
 [mywebserver.vars]
 myvar= value
-mywebpackforubuntu= apache2
+mytest= apache2
 mywebpackforredhat= httpd
